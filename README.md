@@ -6,7 +6,7 @@ In Battleship, the computer has positioned five ships of various sizes on a 10x1
 
 Obviously this game would be more fun if the player had his own ships and the computer were firing back, but we’ll leave that out for simplicity. In other words, we are only implementing the turns for Player 1, not for Player 2.
 
-The game should is responsive and mobile-friendly, so that it may be played on an iPhone 5-sized screen (320x568) up to a desktop browser (approx. 1440x1024).
+The game is responsive and mobile-friendly, so that it may be played on an iPhone 5-sized screen (320x568) up to a desktop browser (approx. 1440x1024).
 
 
 ## Available Scripts
